@@ -1,0 +1,6 @@
+/target
+.vscode
+.DS_STORE
+.project
+.settings/
+.classpath
