@@ -3,7 +3,7 @@ This app fetach [json-place-holder-api-posts](https://jsonplaceholder.typicode.c
 Then asserts that the number posts matches 100.
 
 To run this:
-1. copy the repo, then inside the foldere pom.xml exists then => 
+1. copy the repo, then enter inside the folder where pom.xml exists: git clone ..., cd jsonplaceholderapi, then run the following two commands
 2. mvn clean
 3. mvn test
 
